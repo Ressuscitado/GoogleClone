@@ -1,2 +1,2 @@
 # GoogleClone
-Clone do Google
+Clone do Google, apenas visual, responvidade aplicada!
