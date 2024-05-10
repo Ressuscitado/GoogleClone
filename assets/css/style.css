@@ -24,6 +24,10 @@ header div a img {
     width: 40px;
     margin-left: 10px;
 }
+.diminuir {
+    height: 25px;
+    width: 25px;
+}
 h1 {
     color: white;
     font-size: 85px;
@@ -86,6 +90,7 @@ form {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
 footer .container3, footer .container4 {
     display: flex;
 }
@@ -113,25 +118,19 @@ footer .container5 {
     align-items: center; /* Alinha os itens verticalmente */
     margin-bottom: 10px;
     margin-top: 10px;
-}
-    
+} 
 footer div {
     margin-right: 20px;
+    margin-left: 10px;
 }
-    
+ 
 footer div a {
     text-decoration: none;
     color: white;
+    margin-top: 10px;
+    margin-bottom: 10px
 }
-    
-.brazil p {
-    color: white;
-    font-size: 15px;
-    align-items: center;
-    border-bottom: 1px solid #fff;
-    height: 30px;
 
-}
 form div.input-container {
     position: relative;
 }
@@ -140,7 +139,7 @@ form div.input-container img {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    right: 10px;
+    right: 15px;
     height: 25px;
     width: 20px; 
 }
@@ -189,6 +188,7 @@ form div.input-container .img2 {
     .brazil p{
         font-size: 8px;
         text-align: center;
+        
     }
     footer div {
         margin-right: 8px;
@@ -214,3 +214,5 @@ form div.input-container .img2 {
         width: 15px; 
     }
 }
+
+    
